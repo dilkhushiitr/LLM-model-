@@ -1,7 +1,7 @@
 
-# RockyBot: News Research Tool 
+# News_Bot: Chat Bot for News Article
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+News_Bot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from any domain.
 
 ![](rockybot.jpg)
 
